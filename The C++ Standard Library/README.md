@@ -1,6 +1,6 @@
 # The C++ Standard Library
 
-The C++ Standard Library: A Tutorial and Reference, 2/e
+[The C++ Standard Library: A Tutorial and Reference, 2/e](https://www.amazon.com/Standard-Library-Tutorial-Reference-2nd/dp/0321623215)
 
 http://www.cppstdlib.com/code/
 
