@@ -122,12 +122,12 @@ I will provide after I wrote most of the chapters.
   - [x] 14.8 The Regex ECMAScript Grammar
   - [x] 14.9 Other Grammars
   - [x] 14.10 Basic Regex Signatures in Detail
-- [ ] 15 Input/Output Using Stream Classes
+- [ ] 15 Input/Output Using Stream Classes (31/105, 30%)
   - [x] 15.1 Common Background of I/O Streams
   - [x] 15.2 Fundamental Stream Classes and Objects
   - [x] 15.3 Standard Stream Operators `<<` and `>>`
-  - [ ] 15.4 State of Streams
-  - [ ] 15.5 Standard Input/Output Functions
+  - [x] 15.4 State of Streams
+  - [x] 15.5 Standard Input/Output Functions
   - [ ] 15.6 Manipulators
   - [ ] 15.7 Formatting
   - [ ] 15.8 Internationalization
@@ -137,8 +137,8 @@ I will provide after I wrote most of the chapters.
   - [ ] 15.12 Connecting Input and Output Streams
   - [ ] 15.13 The Stream Buffer Classes
   - [ ] 15.14 Performance Issues
-- [ ] Ch16 Internationalization
-  - [ ] 16.1 Character Encodings and Character Sets
+- [ ] Ch16 Internationalization (8/58, 14%)
+  - [x] 16.1 Character Encodings and Character Sets
   - [ ] 16.2 The Concept of Locales
   - [ ] 16.3 Locales in Detail
   - [ ] 16.4 Facets in Detail

@@ -121,7 +121,7 @@ I will provide after I wrote most of the chapters.
   - [x] Adapt Parameter
   - [x] Break Out Method Object
   - [x] Deﬁnition Completion
-  - [ ] Encapsulate Global References
+  - [x] Encapsulate Global References
   - [x] Expose Static Method
   - [ ] Extract and Override Call
   - [ ] Extract and Override Factory Method
