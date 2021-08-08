@@ -122,15 +122,15 @@ I will provide after I wrote most of the chapters.
   - [x] 14.8 The Regex ECMAScript Grammar
   - [x] 14.9 Other Grammars
   - [x] 14.10 Basic Regex Signatures in Detail
-- [ ] 15 Input/Output Using Stream Classes (31/105, 30%)
+- [ ] 15 Input/Output Using Stream Classes (48/105, 45%)
   - [x] 15.1 Common Background of I/O Streams
   - [x] 15.2 Fundamental Stream Classes and Objects
   - [x] 15.3 Standard Stream Operators `<<` and `>>`
   - [x] 15.4 State of Streams
   - [x] 15.5 Standard Input/Output Functions
-  - [ ] 15.6 Manipulators
-  - [ ] 15.7 Formatting
-  - [ ] 15.8 Internationalization
+  - [x] 15.6 Manipulators
+  - [x] 15.7 Formatting
+  - [x] 15.8 Internationalization
   - [ ] 15.9 File Access
   - [ ] 15.10 Stream Classes for Strings
   - [ ] 15.11 Input/Output Operators for User-Deﬁned Types

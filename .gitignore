@@ -1,3 +1,7 @@
 build
 *.pdf
 .vscode
+.gradle
+.settings
+bin
+gradle

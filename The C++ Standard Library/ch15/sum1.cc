@@ -9,7 +9,6 @@
  * warranty, and with no claim as to its suitability for any purpose.
  */
 #include <bits/stdc++.h>
-
 using namespace std;
 using std::ios;
 

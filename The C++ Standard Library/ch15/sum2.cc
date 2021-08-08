@@ -10,7 +10,6 @@
  */
 #include <bits/stdc++.h>
 #include <ios>
-
 using namespace std;
 
 namespace MyLib {

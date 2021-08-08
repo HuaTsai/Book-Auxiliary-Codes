@@ -123,23 +123,23 @@ I will provide after I wrote most of the chapters.
   - [x] Deﬁnition Completion
   - [x] Encapsulate Global References
   - [x] Expose Static Method
-  - [ ] Extract and Override Call
-  - [ ] Extract and Override Factory Method
-  - [ ] Extract and Override Getter
+  - [x] Extract and Override Call
+  - [x] Extract and Override Factory Method
+  - [x] Extract and Override Getter
   - [ ] Extract Implementer
   - [x] Extract Interface
   - [x] Introduce Instance Delegator
   - [ ] Introduce Static Setter
   - [ ] Link Substitution
-  - [ ] Parameterize Constructor
+  - [x] Parameterize Constructor
   - [x] Parameterize Method
   - [ ] Primitivize Parameter
   - [ ] Pull Up Feature
   - [ ] Push Down Dependency
   - [ ] Replace Function with Function Pointer
-  - [ ] Replace Global Reference with Getter
-  - [ ] Subclass and Override Method
-  - [ ] Supersede Instance Variable
+  - [x] Replace Global Reference with Getter
+  - [x] Subclass and Override Method
+  - [x] Supersede Instance Variable
   - [ ] Template Redeﬁnition
   - [ ] Text Redeﬁnition
 
